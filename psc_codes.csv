@@ -1,0 +1,642 @@
+group,psc,psc_desc,psc_category
+53,5350,Abrasive Materials,Abrasive
+34,3461,Accessories for Secondary Metalworking Machinery,Accessories
+74,7420,Accounting and Calculating Machines,Accounting
+96,9630,Additive Metal Materials,Additive
+80,8040,Adhesives,Adhesives
+76,7641,Aeronautical Maps,Charts and Geodetic Products
+41,4120,Air Conditioning Equipment,Air
+44,4460,Air Purification Equipment,Air
+16,1660,Aircraft Air Conditioning,Heating
+63,6340,Aircraft Alarm and Signal Systems,Aircraft
+12,1280,Aircraft Bombing Fire Control Components,Aircraft
+16,1640,Aircraft Control Cable Products,Aircraft
+12,1270,Aircraft Gunnery Fire Control Components,Aircraft
+16,1650,Aircraft Hydraulic,Vacuum
+17,1710,Aircraft Landing Equipment Includes,Aircraft
+16,1620,Aircraft Landing Gear Components,Aircraft
+17,1720,Aircraft Launching Equipment Includes,Aircraft
+49,4920,Aircraft Maintenance and Repair Shop Specialized Equipment,Aircraft
+16,1610,Aircraft Propellers and Components,Aircraft
+16,1630,Aircraft Wheel and Brake Systems,Aircraft
+15,1510,Aircraft,Fixed Wing
+15,1520,Aircraft,Rotary Wing
+17,1740,Airfield Specialized Trucks and Trailers,Airfield
+15,1560,Airframe Structural Components,Airframe
+81,8140,Ammunition and Nuclear Ordnance Boxes,Packages and Special Containers
+49,4925,Ammunition Maintenance,Repair
+13,1315,Ammunition,75mm through 125mm
+13,1320,Ammunition,over 125mm
+13,1310,Ammunition,over 30mm up to 75mm
+13,1305,Ammunition,through 30mm Includes
+59,5996,Amplifiers,Amplifiers
+59,5985,Antennas,Waveguides
+69,6920,Armament Training Devices,Armament
+84,8470,Armor,Personal
+10,1090,Assemblies Interchangeable Between Weapons in Two or More Classes,Assemblies
+78,7810,Athletic and Sporting Equipment,Athletic
+66,6615,Automatic Pilot Mechanisms and Airborne Gyro Components,Automatic
+84,8455,Badges and Insignia,Badges
+81,8105,Bags and Sacks,Bags
+89,8920,Bakery and Cereal Products,Bakery
+62,6250,Ballasts,Lampholders
+19,1930,Barges and Lighters,Cargo
+19,1935,Barges and Lighters,Special Purpose
+95,9510,Bars and Rods,Bars
+95,9530,Bars and Rods,Nonferrous Base Metal
+61,6135,Batteries,Nonrechargeable
+61,6140,Batteries,Rechargeable
+31,3110,Bearings,Antifriction
+31,3130,Bearings,Mounted
+31,3120,Bearings,Plain
+30,3030,Belting,Drive Belts
+34,3441,Bending and Forming Machines,Bending
+89,8965,Beverages,Alcoholic
+89,8960,Beverages,Nonalcoholic Includes
+39,3940,Blocks,Tackle
+53,5306,Bolts,Bolts
+13,1325,Bombs,Bombs
+76,7610,Books and Pamphlets,Books
+34,3411,Boring Machines,Boring
+81,8125,Bottles and Jars,Bottles
+81,8115,Boxes,Cartons
+54,5420,Bridges,Fixed and Floating
+34,3412,Broaching Machines,Broaching
+79,7920,Brooms,Brushes
+56,5670,Building Components,Prefabricated
+13,1376,Bulk Explosives,Bulk
+20,2050,Buoys,Buoys
+53,5365,Bushings,Rings
+71,7125,Cabinets,Lockers
+59,5995,Cable,Cord
+67,6710,Cameras,Motion Picture
+67,6720,Cameras,Still Picture
+10,1080,Camouflage and Deception Equipment,Camouflage
+59,5910,Capacitors,Capacitors
+19,1915,Cargo and Tanker Vessels,Cargo
+13,1377,Cartridge and Propellant Actuated Devices and Components,Cartridge
+43,4330,Centrifugals,Separators
+40,4010,Chain and Wire Rope,Chain
+66,6630,Chemical Analysis Instruments,Chemical
+36,3650,Chemical and Pharmaceutical Products Manufacturing Machinery,Chemical
+10,1040,Chemical Weapons and Equipment,Chemical
+68,6810,Chemicals,Chemicals
+84,8450,Children's and Infants' Apparel and Accessories,Children's
+59,5925,Circuit Breakers,Circuit
+36,3630,Clay and Concrete Products Industries Machinery,Clay
+36,3694,Clean Work Stations,Controlled Environment
+79,7930,Cleaning and Polishing Compounds and Preparations,Cleaning
+84,8415,Clothing,Special Purpose
+89,8955,Coffee,Tea
+53,5360,Coil,Flat
+59,5950,Coils and Transformers,Coils
+54,5419,Collective Modular Support System,Collective
+99,9915,Collectors' and/or Historical Items,Collectors'
+19,1905,Combat Ships and Landing Vessels,Combat
+23,2350,Combat,Assault
+23,2355,Combat,Assault
+66,6695,Combination and Miscellaneous Instruments,Combination
+81,8120,Commercial and Industrial Gas Cylinders,Commercial
+20,2060,Commercial Fishing Equipment Excludes,Commercial
+69,6940,Communication Training Devices,Communication
+58,5810,Communications Security Equipment and Components,Communications
+89,8970,Composite Food Packages,Composite
+43,4310,Compressors and Vacuum Pumps,Compressors
+89,8950,Condiments and Related Products,Condiments
+59,5935,Connectors,Electrical
+11,1130,Conversion Kits,Nuclear Ordnance
+61,6130,Converters,Electrical
+61,6125,Converters,Electrical
+39,3910,Conveyors,Conveyors
+38,3815,Crane and Crane-Shovel Attachments,Crane
+38,3810,Cranes and Crane-Shovels,Cranes
+94,9410,Crude Grades of Plant Materials,Crude
+36,3635,Crystal and Glass Industries Machinery,Crystal
+73,7340,Cutlery and Flatware,Cutlery
+34,3456,Cutting and Forming Tools for Secondary Metalworking Machinery,Cutting
+34,3455,Cutting Tools for Machine Tools,Cutting
+89,8910,Dairy Foods and Eggs,Dairy
+37,3730,Dairy,Poultry
+20,2030,Deck Machinery,Deck
+42,4230,Decontaminating and Impregnating Equipment,Decontaminating
+10,1075,Degaussing and Mine Sweeping Equipment,Degaussing
+13,1375,Demolition Materials,Demolition
+65,6520,Dental Instruments,Equipment
+13,1361,Depth Charges and Components,Explosive
+13,1360,Depth Charges and Components,Inert
+49,4923,Depth Charges and Underwater Mines Maintenance,Repair
+28,2815,Diesel Engines and Components,Diesel
+76,7644,Digital Maps,Charts and Geodetic Products
+53,5345,Disks and Stones,Abrasive
+66,6675,Drafting,Surveying
+72,7230,Draperies,Awnings
+76,7650,Drawings and Specifications,Drawings
+19,1955,Dredges,Dredges
+44,4440,Driers,Dehydrators
+51,5133,Drill Bits,Counterbores
+34,3413,Drilling and Tapping Machines,Drilling
+65,6505,Drugs and Biologicals,Drugs
+65,6509,Drugs and Biologicals,Veterinary Use
+81,8110,Drums and Cans,Drums
+68,6820,Dyes,Dyes
+38,3805,Earth Moving and Excavating Equipment,Earth
+99,9925,Ecclesiastical Equipment,Furnishings
+34,3431,Electric Arc Welding Equipment,Electric
+62,6240,Electric Lamps,Electric
+62,6230,Electric Portable and Hand Lighting Equipment,Electric
+34,3432,Electric Resistance Welding Equipment,Electric
+62,6220,Electric Vehicular Lights and Fixtures,Electric
+59,5998,Electrical and Electronic assemblies,Boards
+66,6625,Electrical and Electronic Properties Measuring and Testing Instruments,Electrical
+34,3410,Electrical and Ultrasonic Erosion Machines,Electrical
+59,5977,Electrical Contact Brushes and Electrodes,Electrical
+61,6110,Electrical Control Equipment Includes,Electrical
+59,5975,Electrical Hardware and Supplies,Electrical
+59,5970,Electrical Insulators and Insulating Materials,Electrical
+59,5960,Electron Tubes and Associated Hardware,Electron
+58,5865,Electronic Countermeasures,Counter- Countermeasures and Quick Reaction Capability Equipment
+59,5963,Electronic Modules,Electronic
+29,2945,Engine Air and Oil Filters,Cleaners
+29,2940,Engine Air and Oil Filters,Strainers
+29,2930,Engine Cooling System Components,Nonaircraft
+29,2925,Engine Electrical System Components,Aircraft Prime Moving
+29,2920,Engine Electrical System Components,Nonaircraft
+29,2915,Engine Fuel System Components,Aircraft and Missile Prime Movers
+29,2910,Engine Fuel System Components,Nonaircraft
+66,6620,Engine Instruments,Engine
+29,2935,Engine System Cooling Components,Aircraft Prime Moving
+66,6636,Environmental Chambers and Related Equipment,Environmental
+11,1145,Explosive and Pyrotechnic Components,Nuclear Ordnance
+41,4140,Fans,Air Circulators
+53,5325,Fastening Devices,Fastening
+56,5660,Fencing,Fences
+87,8720,Fertilizers,Fertilizers
+60,6070,Fiber Optic Accessories and Supplies,Fiber
+60,6020,Fiber Optic Cable Assemblies and Harnesses,Fiber
+60,6015,Fiber Optic Cables,Fiber
+60,6010,Fiber Optic Conductors,Fiber
+60,6030,Fiber Optic Devices,Fiber
+60,6060,Fiber Optic Interconnectors,Fiber
+60,6080,Fiber Optic Kits and Sets,Fiber
+60,6032,Fiber Optic Light Sources and Photo Detectors,Fiber
+60,6035,Fiber Optic Light Transfer and Image Transfer Devices,Fiber
+60,6021,Fiber Optic Switches,Fiber
+40,4020,Fiber Rope,Cordage
+94,9420,Fibers,Fibers
+67,6770,Film,Processed
+59,5915,Filters and Networks,Filters
+12,1220,Fire Control Computing Sights and Devices,Fire
+12,1260,Fire Control Designating and Indicating Equipment,Fire
+12,1210,Fire Control Directors,Fire
+49,4931,Fire Control Maintenance and Repair Shop Specialized Equipment,Fire
+12,1285,Fire Control Radar Equipment,except Airborne
+12,1287,Fire Control Sonar Equipment,Fire
+12,1250,Fire Control Stabilizing Mechanisms,Fire
+12,1230,Fire Control Systems,Complete Notes
+12,1265,Fire Control Transmitting and Receiving Equipment,except Airborne
+42,4210,Fire Fighting Equipment,Fire
+19,1920,Fishing Vessels,Fishing
+40,4030,Fittings for Rope,Cable
+83,8345,Flags and Pennants,Flags
+66,6610,Flight Instruments,Flight
+19,1950,Floating Drydocks,Floating
+72,7220,Floor Coverings,Floor
+79,7910,Floor Polishers and Vacuum Cleaning Equipment,Floor
+73,7310,Food Cooking,Baking
+36,3605,Food Products Machinery and Equipment,Food
+89,8945,Food,Oils and Fats
+84,8430,Footwear,Men's
+84,8435,Footwear,Women's
+87,8710,Forage and Feed,Forage
+34,3446,Forging Machinery and Hammers Excludes,Forging
+36,3680,Foundry Machinery,Related Equipment and Supplies
+81,8150,Freight Containers,Freight
+39,3960,Freight Elevators,Freight
+89,8915,Fruits and Vegetables Includes,Fruits
+45,4530,Fuel Burning Equipment Units,Fuel
+61,6116,Fuel Cell Power Units,Components
+91,9140,Fuel Oils,Fuel
+91,9110,Fuels,Solid
+83,8325,Fur Materials,Fur
+59,5920,Fuses,Arrestors
+13,1390,Fuzes and Primers,Fuzes
+11,1135,Fuzing and Firing Devices,Nuclear Ordnance
+78,7820,Games,Toys
+37,3750,Gardening Implements and Tools,Gardening
+36,3655,Gas Generating and Dispensing Systems,Fixed or Mobile
+28,2840,Gas Turbines and Jet Engines,Aircraft
+28,2835,Gas Turbines and Jet Engines; Non- Aircraft Prime Mover,Aircraft Non- Prime Mover
+34,3433,Gas Welding,Heat Cutting
+68,6830,Gases,Gases
+28,2810,Gasoline Reciprocating Engines,Aircraft Prime Mover; and Components
+28,2805,Gasoline Reciprocating Engines,Except Aircraft; and Components
+28,2850,Gasoline Rotary Engines and Components,Gasoline
+34,3414,Gear Cutting and Finishing Machines,Gear
+30,3020,Gears,Pulleys
+61,6115,Generators and Generator Sets,Electrical
+66,6655,Geophysical Instruments,Geophysical
+93,9340,Glass Fabricated Materials,Glass
+15,1540,Gliders,Gliders
+13,1330,Grenades,Grenades
+34,3415,Grinding Machines,Grinding
+23,2305,Ground Effect Vehicles,Ground
+13,1337,Guided Missile and Space Vehicle Explosive Propulsion Units,Solid Fuel; and Components
+13,1338,Guided Missile and Space Vehicle Inert Propulsion Units,Solid Fuel; and Components
+14,1420,Guided Missile Components,Guided
+14,1450,Guided Missile Handling and Servicing Equipment,Guided
+49,4935,Guided Missile Maintenance,Repair
+14,1430,Guided Missile Remote Control Systems,Guided
+14,1427,Guided Missile Subsystems Notes,Guided
+14,1425,Guided Missile Systems,Complete
+13,1336,Guided Missile Warheads and Explosive Components,Guided
+14,1410,Guided Missiles,Guided
+10,1015,Guns,75mm through 125mm
+10,1020,Guns,over 125mm through 150mm
+10,1025,Guns,over 150mm through 200mm
+10,1030,Guns,over 200mm through 300mm
+10,1035,Guns,over 300mm
+10,1010,Guns,over 30mm up to 75mm
+10,1005,Guns,through 30mm
+51,5110,Hand Tools,Edged
+51,5120,Hand Tools,Nonedged
+51,5130,Hand Tools,Power Driven
+53,5340,Hardware,Commercial
+53,5342,Hardware,Weapon System
+37,3720,Harvesting Equipment Includes,Harvesting
+66,6665,Hazard-Detecting Instruments and Apparatus,Hazard-Detecting
+42,4235,Hazardous Material Spill Containment and Clean-up Equipment and Material,Hazardous
+59,5965,Headsets,Handsets
+44,4420,Heat Exchangers and Steam Condensers,Heat
+16,1615,Helicopter Rotor Blades,Drive Mechanisms and Components
+47,4720,Hose and Flexible Tubing Includes,Hose
+47,4730,Hose,Pipe
+84,8440,Hosiery,Handwear
+84,8445,Hosiery,Handwear
+65,6532,Hospital and Surgical Clothing and Related Special Purpose Items,Hospital
+65,6530,Hospital Furniture,Equipment
+72,7240,Household and Commercial Utility Containers,Household
+72,7210,Household Furnishings,Household
+71,7105,Household Furniture,Household
+34,3442,Hydraulic and Pneumatic Presses,Power Driven
+76,7642,Hydrographic Maps,Charts and Geodetic Products
+65,6525,Imaging Equipment and Supplies,Imaging
+65,6550,In Vitro Diagnostic Substances,Reagents
+62,6210,Indoor and Outdoor Electric Lighting Fixtures,Indoor
+36,3693,Industrial Assembly Machines,Industrial
+44,4410,Industrial Boilers,Industrial
+44,4430,Industrial Furnaces,Kilns
+36,3611,Industrial Marking Machines,Industrial
+35,3530,Industrial Sewing Machines and Mobile Textile Repair Shops,Industrial
+36,3660,Industrial Size Reduction Machinery,Industrial
+70,7020,Information Technology  Central Processing Unit (CPU,Computer)
+70,7021,Information Technology Central Processing Unit (CPU,Computer)
+70,7022,Information Technology Central Processing Unit (CPU,Computer)
+70,7050,Information Technology Components,Information
+70,7010,Information Technology Equipment System Configuration,Information
+70,7025,Information Technology Input/Output and Storage Devices,Information
+70,7030,Information Technology Software,Information
+70,7045,Information Technology Supplies,Information
+70,7035,Information Technology Support Equipment,Information
+52,5220,Inspection Gages and Precision Layout Tools,Inspection
+58,5831,Intercommunication and Public Address Systems,Airborne
+58,5830,Intercommunication and Public Address Systems,Except Airborne
+96,9640,Iron and Steel Primary and Semifinished Products,Iron
+96,9670,Iron and Steel Scrap,Iron
+89,8930,Jams,Jellies
+84,8465,Jewelry,Jewelry
+73,7320,Kitchen Equipment and Appliances,Kitchen
+73,7330,Kitchen Hand Tools and Utensils,Kitchen
+53,5355,Knobs and Pointers,Knobs
+66,6640,Laboratory Equipment and Supplies,Laboratory
+13,1345,Land Mines,Land
+34,3416,Lathes,Lathes
+14,1440,Launchers,Guided Missile
+10,1055,Launchers,Rocket and Pyrotechnic
+10,1045,Launchers,Torpedo and Depth Charge
+35,3510,Laundry and Dry Cleaning Equipment,Laundry
+83,8330,Leather,Leather
+36,3645,Leather Tanning and Leather Working Industries Machinery,Leather
+66,6680,Liquid and Gas Flow,Liquid Level
+91,9135,Liquid Propellant Fuels and Oxidizers,Chemical Base
+91,9130,Liquid Propellants and Fuels,Petroleum Base
+88,8820,Live Animals,Not Raised for Food
+88,8810,Live Animals,Raised for Food
+22,2240,Locomotive and Rail Car Accessories and Components,Locomotive
+22,2210,Locomotives,Locomotives
+49,4930,Lubrication and Fuel Dispensing Equipment,Lubrication
+59,5940,Lugs,Terminals
+55,5510,Lumber and Related Basic Wood Materials,Lumber
+34,3470,Machine Shop Sets,Kits
+34,3460,Machine Tool accessories,Machine
+34,3450,Machine Tools,Portable
+34,3408,Machining Centers and Way-Type Machines,Machining
+34,3444,Manual Presses,Manual
+76,7640,Maps,Atlases
+20,2040,Marine Hardware and Hull Items,Marine
+42,4220,Marine Lifesaving and Diving Equipment,Marine
+39,3920,Material Handling Equipment,Nonself- Propelled
+39,3915,Materials Feeders,Materials
+52,5210,Measuring Tools,Craftsmen's
+89,8905,Meat,Poultry
+34,3443,Mechanical Presses,Power Driven
+65,6515,Medical and Surgical Instruments,Equipment
+65,6508,Medicated Cosmetics and Toiletries,Medicated
+99,9930,Memorials; Cemeterial and Mortuary Equipment and Supplies,Memorials;
+34,3426,Metal Finishing Equipment,Metal
+34,3424,Metal Heat Treating and Non-Thermal Treating Equipment,Metal
+53,5335,Metal Screening,Metal
+66,6660,Meteorological Instruments and Apparatus,Meteorological
+59,5962,Microcircuits,Electronic
+76,7670,Microfilm,Processed
+13,1365,Military Chemical Agents Includes,Military
+34,3417,Milling Machines,Milling
+55,5520,Millwork,Millwork
+56,5610,Mineral Construction Materials,Bulk
+96,9620,Minerals,Natural and Synthetic
+70,7042,Mini and Micro Computer Control Devices,Mini
+38,3820,Mining,Rock Drilling
+63,6350,Miscellaneous Alarm,Signal
+13,1395,Miscellaneous Ammunition,Miscellaneous
+61,6160,Miscellaneous Battery Retaining Fixtures,Liners and Ancillary Items
+68,6850,Miscellaneous Chemical Specialties,Miscellaneous
+58,5895,Miscellaneous Communication Equipment,Miscellaneous
+38,3895,Miscellaneous Construction Equipment,Miscellaneous
+56,5680,Miscellaneous Construction Materials,Miscellaneous
+94,9440,Miscellaneous Crude Agricultural and Forestry Products,Miscellaneous
+94,9430,Miscellaneous Crude Animal Products,Inedible
+61,6150,Miscellaneous Electric Power and Distribution Equipment,Miscellaneous
+59,5999,Miscellaneous Electrical and Electronic Components,Miscellaneous
+29,2995,Miscellaneous Engine Accessories,Aircraft
+29,2990,Miscellaneous Engine Accessories,Nonaircraft
+28,2895,Miscellaneous Engines and Components,Miscellaneous
+93,9390,Miscellaneous Fabricated Nonmetallic Materials,Miscellaneous
+60,6099,Miscellaneous Fiber Optic Components,Miscellaneous
+12,1290,Miscellaneous Fire Control Equipment,Miscellaneous
+71,7195,Miscellaneous Furniture and Fixtures,Miscellaneous
+72,7290,Miscellaneous Household and Commercial Furnishings and Appliances,Miscellaneous
+99,9999,Miscellaneous Items,Miscellaneous
+34,3419,Miscellaneous Machine Tools,Miscellaneous
+49,4940,Miscellaneous Maintenance and Repair Shop Specialized Equipment,Miscellaneous
+39,3990,Miscellaneous Materials Handling Equipment,Miscellaneous
+11,1195,Miscellaneous Nuclear Ordnance,Miscellaneous
+74,7490,Miscellaneous Office Machines,Miscellaneous
+30,3040,Miscellaneous Power Transmission Equipment,Miscellaneous
+54,5450,Miscellaneous Prefabricated Structures Includes,Miscellaneous
+76,7690,Miscellaneous Printed Matter,Miscellaneous
+34,3449,Miscellaneous Secondary Metal Forming and Cutting Machines,Miscellaneous
+35,3590,Miscellaneous Service and Trade Equipment,Miscellaneous
+20,2090,Miscellaneous Ship and Marine Equipment,Miscellaneous
+36,3695,Miscellaneous Special Industry Machinery,Miscellaneous
+25,2590,Miscellaneous Vehicular Components,Miscellaneous
+19,1990,Miscellaneous Vessels,Miscellaneous
+91,9160,Miscellaneous Waxes,Oils
+10,1095,Miscellaneous Weapons Includes,Miscellaneous
+34,3438,Miscellaneous Welding Equipment,Miscellaneous
+34,3439,Miscellaneous Welding,Soldering
+49,4910,Motor Vehicle Maintenance and Repair Shop Specialized Equipment,Motor
+23,2340,Motorcycles,Motor Scooters
+61,6105,Motors,Electrical
+49,4970,Multiple Guided Weapons,Specialized Maintenance and Repair Shop Equipment
+77,7720,Musical Instrument Parts and Accessories,Musical
+77,7710,Musical Instruments,Musical
+53,5315,Nails,Machine Keys
+66,6605,Navigational Instruments,Navigational
+10,1070,Nets and Booms,Ordnance
+76,7630,Newspapers and Periodicals,Newspapers
+58,5855,Night Vision Equipment,Emitted and Reflected Radiation
+62,6260,Nonelectrical Lighting Fixtures,Nonelectrical
+96,9650,Nonferrous Base Metal Refinery and Intermediate Forms,Nonferrous
+96,9680,Nonferrous Scrap,Nonferrous
+94,9450,Nonmetallic Scrap,Except Textile
+56,5675,Nonwood Construction Lumber and Related Materials,Nonwood
+83,8315,Notions and Apparel Findings,Notions
+11,1105,Nuclear Bombs,Nuclear
+11,1140,Nuclear Components,Nuclear
+11,1125,Nuclear Demolition Charges,Nuclear
+11,1120,Nuclear Depth Charges,Nuclear
+11,1110,Nuclear Projectiles,Nuclear
+44,4470,Nuclear Reactors,Nuclear
+11,1127,Nuclear Rockets,Nuclear
+11,1115,Nuclear Warheads and Warhead Sections,Nuclear
+53,5310,Nuts and Washers,Nuts
+75,7520,Office Devices and Accessories,Office
+71,7110,Office Furniture,Office
+74,7435,Office Information System Equipment,Office
+75,7510,Office Supplies,Office
+74,7450,Office Type Sound Recording and Reproducing Machines,Office
+91,9150,Oils and Greases,Oils
+69,6930,Operation Training Devices,Operation
+65,6540,Ophthalmic Instruments,Equipment
+66,6650,Optical Instruments,Test Equipment
+12,1240,Optical Sighting and Ranging Equipment,Optical
+59,5980,Optoelectronic Devices and Associated Hardware,Optoelectronic
+96,9610,Ores,Ores
+53,5331,O-Ring,O-Ring
+59,5955,Oscillators and Piezoelectric Crystals,Oscillators
+58,5811,Other Cryptologic Equipment and Components,Other
+84,8405,Outerwear,Men's
+84,8410,Outerwear,Women's
+81,8135,Packaging and Packing Bulk Materials,Packaging
+53,5330,Packing and Gasket Materials,Packing
+83,8320,Padding and Stuffing Materials,Padding
+80,8020,Paint and Artists' Brushes Excludes,Paint
+80,8010,Paints,Dopes
+93,9310,Paper and Paperboard Includes,Paper
+16,1670,Parachutes; Aerial Pick Up,Delivery
+77,7735,Parts and Accessories of Phonographs,Radios
+23,2310,Passenger Motor Vehicles Notes,Passenger
+85,8510,Perfumes,Toilet Preparations
+85,8530,Personal Toiletry Articles,Personal
+68,6840,Pest Control Agents and Disinfectants,Pest
+37,3740,Pest,Disease
+38,3835,Petroleum Production and Distribution Equipment,Petroleum
+77,7740,Phonograph Records,Phonograph
+77,7730,Phonographs,Radios
+67,6740,Photographic Developing and Finishing Equipment,Photographic
+67,6760,Photographic Equipment and Accessories,Photographic
+67,6730,Photographic Projection Equipment,Photographic
+67,6780,Photographic Sets,Kits
+67,6750,Photographic Supplies,Photographic
+66,6635,Physical Properties Testing and Inspection,Physical
+56,5630,Pipe and Conduit,Nonmetallic
+47,4710,Pipe,Tube and Rigid Tubing
+34,3418,Planers and Shapers,Planers
+93,9330,Plastics Fabricated Materials,Plastics
+95,9535,Plate,Sheet
+95,9515,Plate,Sheet
+95,9545,Plate,Sheet
+45,4510,Plumbing Fixtures and Accessories,Plumbing
+55,5530,Plywood and Veneer,Plywood
+19,1945,Pontoons and Floating Docks,Pontoons
+43,4320,Power and Hand Pumps,Power
+96,9660,Precious Metals Primary Forms,Precious
+54,5410,Prefabricated and Portable Buildings,Prefabricated
+54,5445,Prefabricated Tower Structures,Prefabricated
+80,8030,Preservative and Sealing Compounds,Preservative
+66,6685,Pressure,Temperature
+36,3610,Printing,Duplicating
+34,3465,Production Jigs,Fixtures
+36,3615,Pulp and Paper Industries Machinery,Pulp
+70,7040,Punched Card Equipment Includes,Punched
+34,3445,Punching and Shearing Machines,Punching
+13,1370,Pyrotechnics,Pyrotechnics
+58,5841,Radar Equipment,Airborne Notes
+58,5840,Radar Equipment,Except Airborne
+58,5821,Radio and Television Communication Equipment,Airborne
+58,5820,Radio and Television Communication Equipment,Except Airborne
+58,5826,Radio Navigation Equipment,Airborne
+58,5825,Radio Navigation Equipment,Except Airborne
+22,2220,Rail Cars,Rail
+63,6330,Railroad Signal and Warning Devices,Railroad
+78,7830,Recreational and Gymnastic Equipment,Recreational
+42,4250,Recycling and Reclamation Equipment,Recycling
+81,8130,Reels and Spools,Reels
+93,9350,Refractories and Fire Surfacing Materials,Refractories
+41,4130,Refrigeration and Air Conditioning Components,Refrigeration
+41,4110,Refrigeration Equipment Notes,Refrigeration
+59,5945,Relays and Solenoids,Relays
+13,1346,Remote Munitions,Remote
+65,6545,Replenishable Field Medical Sets,Kits
+59,5905,Resistors,Resistors
+20,2020,Rigging and Rigging Gear Includes,Rigging
+22,2230,Right-of-Way Construction and Maintenance Equipment,Railroad
+54,5411,Rigid Wall Shelters,Rigid
+34,3448,Riveting Machines,Riveting
+53,5320,Rivets,Rivets
+38,3825,Road Clearing,Cleaning
+28,2845,Rocket Engines and Components,Rocket
+49,4927,Rocket Maintenance,Repair and Checkout Specialized Equipment
+13,1340,Rockets,Rocket Ammunition and Rocket Components
+34,3422,Rolling Mills and Drawing Machines,Rolling
+56,5650,Roofing and Siding Materials,Roofing
+36,3620,Rubber and Plastics Working Machinery,Rubber
+93,9320,Rubber Fabricated Materials,Rubber
+37,3770,Saddlery,Harness
+42,4240,Safety and Rescue Equipment,Safety
+32,3210,Sawmill and Planing Mill Machinery,Sawmill
+34,3405,Saws and Filing Machines,Saws
+54,5440,Scaffolding Equipment and Concrete Forms,Scaffolding
+66,6670,Scales and Balances,Scales
+53,5305,Screws,Screws
+87,8730,Seeds and Nursery Stock Includes,Seeds
+59,5961,Semiconductor Devices and Associated Hardware,Semiconductor
+51,5180,Sets,Kits
+52,5280,Sets,Kits
+73,7360,Sets,Kits
+46,4630,Sewage Treatment Equipment,Sewage
+76,7660,Sheet and Book Music Excludes,Sheet
+20,2010,Ship and Boat Propulsion Components,Ship
+63,6320,Shipboard Alarm and Signal Systems,Shipboard
+83,8335,Shoe Findings and Soling Materials,Shoe
+35,3520,Shoe Repairing Equipment,Shoe
+99,9905,Signs,Advertising Displays
+19,1940,Small Craft,Small
+99,9920,Smokers' Articles and Matches,Smokers'
+37,3710,Soil Preparation Equipment,Soil
+61,6117,Solar Electric Power Systems,Solar
+58,5835,Sound Recording and Reproducing Equipment,Sound
+89,8935,Soups and Bouillons,Soups
+45,4520,Space and Water Heating Equipment,Space
+16,1680,Space Vehicle Components,Space
+17,1735,Space Vehicle Handling and Servicing Equipment,Space
+17,1730,Space Vehicle Launchers,Space
+49,4960,Space Vehicle Maintenance,Repair
+15,1555,Space Vehicles,Space
+89,8940,Special Dietary Foods and Food Specialty Preparations,Special
+19,1925,Special Service Vessels,Special
+36,3690,Specialized Ammunition and Ordnance Machinery and Related Equipment,Specialized
+13,1398,Specialized Ammunition Handling and Servicing Equipment,Specialized
+84,8475,Specialized Flight Clothing and Accessories,Specialized
+36,3685,Specialized Metal Container Manufacturing Machinery and Related Equipment,Specialized
+36,3670,Specialized Semiconductor,Microcircuit
+81,8145,Specialized Shipping and Storage Containers,Specialized
+11,1190,Specialized Test and Handling Equipment,Nuclear Ordnance
+75,7540,Standard Forms,Standard
+75,7530,Stationery and Record Forms Includes,Stationery
+28,2820,Steam Engines,Reciprocating; and Components
+28,2825,Steam Turbines and Components Includes,Steam
+58,5860,Stimulated Coherent Radiation Devices,Components
+54,5430,Storage Tanks,Storage
+95,9520,Structural Shapes,Structural
+95,9540,Structural Shapes,Nonferrous Base Metal
+53,5307,Studs,Studs
+89,8925,Sugar,Confectionery
+13,1385,Surface Use Explosive Ordnance Disposal Tools and Equipment,Surface
+65,6510,Surgical Dressing Materials,Surgical
+59,5930,Switches,Switches
+59,5990,Synchros and Resolvers,Synchros
+73,7350,Tableware,Tableware
+13,1367,Tactical Sets,Kits
+51,5136,Taps,Dies
+58,5805,Telephone and Telegraph Equipment,Telephone
+58,5815,Teletype and Facsimile Equipment,Teletype
+83,8340,Tents and Tarpaulins,Tents
+83,8305,Textile Fabrics,Textile
+36,3625,Textile Industries Machinery,Textile
+56,5620,Tile,Brick and Block
+66,6645,Time Measuring Instruments,Time
+26,2640,Tire Rebuilding and Tire and Tube Repair Materials,Tire
+26,2620,Tires and Tubes,Pneumatic
+26,2610,Tires and Tubes,Pneumatic
+26,2630,Tires,Solid and Cushion
+36,3640,Tobacco Manufacturing Machinery,Tobacco
+89,8975,Tobacco Products,Tobacco
+85,8520,Toilet Soap,Shaving Preparations
+85,8540,Toiletry Paper Products,Toiletry
+51,5140,Tool and Hardware Boxes,Tool
+32,3230,Tools and Attachments for Woodworking Machinery,Tools
+76,7643,Topographic Maps,Charts and Geodetic Products
+49,4921,Torpedo Maintenance,Repair
+13,1356,Torpedos and Components,Explosive
+13,1355,Torpedos and Components,Inert
+30,3010,Torque Converters and Speed Changers,Torque
+22,2250,Track Material,Railroad
+24,2410,Tractor,Full Tracked
+24,2430,Tractors,Full Tracked
+24,2420,Tractors,Wheeled
+63,6310,Traffic and Transit Signal Systems Excludes,Traffic
+23,2330,Trailers,Trailers
+69,6910,Training Aids,Training
+61,6120,Transformers,Transformers
+19,1910,Transport Vessels,Passenger and Troop
+38,3830,Truck and Tractor Attachments,Truck
+23,2320,Trucks and Truck Tractors,Wheeled
+29,2950,Turbosupercharger and Components,Turbosupercharger
+74,7430,Typewriters and Office Type Composing Machines,Typewriters
+13,1350,Underwater Mine and Components,Inert
+13,1353,Underwater Mine Disposal Explosive Devices,Underwater
+13,1352,Underwater Mine Disposal Inert Devices,Underwater
+13,1351,Underwater Mines and Components,Explosive
+58,5845,Underwater Sound Equipment,Underwater
+13,1386,Underwater Use Explosive Ordnance Disposal and Swimmer Weapons Systems Tools and Equipment,Underwater
+84,8420,Underwear and Nightwear,Men's
+84,8425,Underwear and Nightwear,Women's Includes
+15,1550,Unmanned Aircraft,Unmanned
+48,4820,Valves,Nonpowered
+48,4810,Valves,Powered
+25,2530,Vehicular Brake,Steering
+25,2510,Vehicular Cab,Body
+25,2540,Vehicular Furniture and Accessories,Vehicular
+25,2520,Vehicular Power Transmission Components,Vehicular
+35,3550,Vending and Coin Operated Machines,Vending
+58,5836,Video Recording and Reproducing Equipment,Video
+58,5850,Visible and Invisible Light Communication Equipment,Visible
+74,7460,Visible Record Equipment,Visible
+41,4150,Vortex Tubes and Other Related Cooling Tubes,Vortex
+56,5640,Wallboard,Building Paper
+39,3930,Warehouse Trucks and Tractors,Self- Propelled
+45,4540,Waste Disposal Equipment,Waste
+46,4620,Water Distillation Equipment,Marine and Industrial
+46,4610,Water Purification Equipment,Water
+28,2830,Water Turbines and Water Wheels; and Components,Water
+49,4933,Weapons Maintenance and Repair Shop Specialized Equipment,Weapons
+25,2541,Weapons Systems Specific Vehicular Accessories,Weapons
+34,3436,Welding Positioners and Manipulators Includes,Welding
+39,3950,Winches,Hoists
+61,6145,Wire and Cable,Electrical
+34,3447,Wire and Metal Ribbon Forming Machines,Wire
+95,9505,Wire,Nonelectrical
+95,9525,Wire,Nonelectrical
+32,3220,Woodworking Machines,Woodworking
+35,3540,Wrapping and Packaging Machinery,Wrapping
+83,8310,Yarn and Thread,Yarn
